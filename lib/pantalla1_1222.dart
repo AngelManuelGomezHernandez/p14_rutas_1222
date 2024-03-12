@@ -10,17 +10,21 @@ class Pantalla1_1222 extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text('Pantalla 1 Gomez1222'),
-        backgroundColor: Colors.amber,
+        backgroundColor: Color(0xff07467a),
       ),
       body: Center(
-        child: Column(
-          children: [
-            ElevatedButton(
-                onPressed: () {
-                  Navigator.pushNamed(context, "/Pantalla2_1222");
-                }, //Fin de onpressed
-                child: Text("Mover a pantalla 2")),
-          ],
+        child: Card(
+          color: Colors.greenAccent,
+          child: Padding(
+            padding: EdgeInsets.all(16),
+            child: Text(
+              'Tarjeta 1 Gomez',
+              style: TextStyle(
+                  fontSize: 30,
+                  color: Colors.blue,
+                  fontWeight: FontWeight.bold),
+            ),
+          ),
         ),
       ),
     );
