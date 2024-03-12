@@ -21,7 +21,8 @@ samples, guidance on mobile development, and a full API reference.
 ## Imagenes
 ![image](https://github.com/AngelManuelGomezHernandez/p14_rutas_1222/assets/143548268/4762b8fb-4773-4b63-b62f-d557926bb098)
 ![image](https://github.com/AngelManuelGomezHernandez/p14_rutas_1222/assets/143548268/abeb37dd-2fb0-41f1-bef8-fdc5a15f8faf)
-![image](https://github.com/AngelManuelGomezHernandez/p14_rutas_1222/assets/143548268/7fa557fd-ac03-4ef8-9803-dacd8ee22686)
+![image](https://github.com/AngelManuelGomezHernandez/p14_rutas_1222/assets/143548268/84e7eeb0-a8b3-458d-a25c-74da7dc39481)
+
 
 ## Links de referencia
 https://github.com/flutter-teacher/card-widget/blob/main/card_test.dart
